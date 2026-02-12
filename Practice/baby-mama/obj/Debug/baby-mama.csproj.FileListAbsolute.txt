@@ -1,0 +1,10 @@
+D:\PathofDev\c-hash\Practice\baby-mama\bin\Debug\baby-mama.exe.config
+D:\PathofDev\c-hash\Practice\baby-mama\bin\Debug\baby-mama.exe
+D:\PathofDev\c-hash\Practice\baby-mama\bin\Debug\baby-mama.pdb
+D:\PathofDev\c-hash\Practice\baby-mama\obj\Debug\baby-mama.csproj.AssemblyReference.cache
+D:\PathofDev\c-hash\Practice\baby-mama\obj\Debug\baby_mama.Form1.resources
+D:\PathofDev\c-hash\Practice\baby-mama\obj\Debug\baby_mama.Properties.Resources.resources
+D:\PathofDev\c-hash\Practice\baby-mama\obj\Debug\baby-mama.csproj.GenerateResource.cache
+D:\PathofDev\c-hash\Practice\baby-mama\obj\Debug\baby-mama.csproj.CoreCompileInputs.cache
+D:\PathofDev\c-hash\Practice\baby-mama\obj\Debug\baby-mama.exe
+D:\PathofDev\c-hash\Practice\baby-mama\obj\Debug\baby-mama.pdb

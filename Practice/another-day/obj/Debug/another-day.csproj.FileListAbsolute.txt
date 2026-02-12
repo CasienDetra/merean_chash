@@ -1,0 +1,11 @@
+D:\PathofDev\c-hash\Practice\another-day\bin\Debug\another-day.exe.config
+D:\PathofDev\c-hash\Practice\another-day\bin\Debug\another-day.exe
+D:\PathofDev\c-hash\Practice\another-day\bin\Debug\another-day.pdb
+D:\PathofDev\c-hash\Practice\another-day\obj\Debug\another-day.csproj.AssemblyReference.cache
+D:\PathofDev\c-hash\Practice\another-day\obj\Debug\another_day.Form1.resources
+D:\PathofDev\c-hash\Practice\another-day\obj\Debug\another_day.Properties.Resources.resources
+D:\PathofDev\c-hash\Practice\another-day\obj\Debug\another-day.csproj.GenerateResource.cache
+D:\PathofDev\c-hash\Practice\another-day\obj\Debug\another-day.csproj.CoreCompileInputs.cache
+D:\PathofDev\c-hash\Practice\another-day\obj\Debug\another-day.exe
+D:\PathofDev\c-hash\Practice\another-day\obj\Debug\another-day.pdb
+D:\PathofDev\c-hash\Practice\another-day\obj\Debug\another-day.exe.config

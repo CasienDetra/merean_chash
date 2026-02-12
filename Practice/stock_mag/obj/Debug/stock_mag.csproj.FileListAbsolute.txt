@@ -1,0 +1,11 @@
+D:\PathofDev\c-hash\Practice\stock_mag\bin\Debug\stock_mag.exe.config
+D:\PathofDev\c-hash\Practice\stock_mag\bin\Debug\stock_mag.exe
+D:\PathofDev\c-hash\Practice\stock_mag\bin\Debug\stock_mag.pdb
+D:\PathofDev\c-hash\Practice\stock_mag\obj\Debug\stock_mag.csproj.AssemblyReference.cache
+D:\PathofDev\c-hash\Practice\stock_mag\obj\Debug\stock_mag.Properties.Resources.resources
+D:\PathofDev\c-hash\Practice\stock_mag\obj\Debug\stock_mag.csproj.GenerateResource.cache
+D:\PathofDev\c-hash\Practice\stock_mag\obj\Debug\stock_mag.csproj.CoreCompileInputs.cache
+D:\PathofDev\c-hash\Practice\stock_mag\obj\Debug\stock_mag.exe
+D:\PathofDev\c-hash\Practice\stock_mag\obj\Debug\stock_mag.pdb
+D:\PathofDev\c-hash\Practice\stock_mag\obj\Debug\stock_mag.exe.config
+D:\PathofDev\c-hash\Practice\stock_mag\obj\Debug\stock_mag.data.resources

@@ -1,0 +1,11 @@
+D:\PathofDev\c-hash\MIdterm\bin\Debug\MIdterm.exe.config
+D:\PathofDev\c-hash\MIdterm\bin\Debug\MIdterm.exe
+D:\PathofDev\c-hash\MIdterm\bin\Debug\MIdterm.pdb
+D:\PathofDev\c-hash\MIdterm\obj\Debug\MIdterm.csproj.AssemblyReference.cache
+D:\PathofDev\c-hash\MIdterm\obj\Debug\MIdterm.Form1.resources
+D:\PathofDev\c-hash\MIdterm\obj\Debug\MIdterm.Properties.Resources.resources
+D:\PathofDev\c-hash\MIdterm\obj\Debug\MIdterm.csproj.GenerateResource.cache
+D:\PathofDev\c-hash\MIdterm\obj\Debug\MIdterm.csproj.CoreCompileInputs.cache
+D:\PathofDev\c-hash\MIdterm\obj\Debug\MIdterm.exe
+D:\PathofDev\c-hash\MIdterm\obj\Debug\MIdterm.pdb
+D:\PathofDev\c-hash\MIdterm\obj\Debug\MIdterm.exe.config

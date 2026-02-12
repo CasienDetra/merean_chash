@@ -1,0 +1,11 @@
+D:\PathofDev\c-hash\date_elv_dec\bin\Debug\date_elv_dec.exe.config
+D:\PathofDev\c-hash\date_elv_dec\bin\Debug\date_elv_dec.exe
+D:\PathofDev\c-hash\date_elv_dec\bin\Debug\date_elv_dec.pdb
+D:\PathofDev\c-hash\date_elv_dec\obj\Debug\date_elv_dec.csproj.AssemblyReference.cache
+D:\PathofDev\c-hash\date_elv_dec\obj\Debug\date_elv_dec.Form1.resources
+D:\PathofDev\c-hash\date_elv_dec\obj\Debug\date_elv_dec.Properties.Resources.resources
+D:\PathofDev\c-hash\date_elv_dec\obj\Debug\date_elv_dec.csproj.GenerateResource.cache
+D:\PathofDev\c-hash\date_elv_dec\obj\Debug\date_elv_dec.csproj.CoreCompileInputs.cache
+D:\PathofDev\c-hash\date_elv_dec\obj\Debug\date_elv_dec.exe
+D:\PathofDev\c-hash\date_elv_dec\obj\Debug\date_elv_dec.pdb
+D:\PathofDev\c-hash\date_elv_dec\obj\Debug\date_elv_dec.exe.config

@@ -1,0 +1,73 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\PathofDev\\c-hash\\Practice\\dih\\orbluy\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E401B91D-DC25-45B7-9FAF-153D177D5305}|orbluy\\orbluy.csproj|d:\\pathofdev\\c-hash\\practice\\dih\\orbluy\\orbluy\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E401B91D-DC25-45B7-9FAF-153D177D5305}|orbluy\\orbluy.csproj|solutionrelative:orbluy\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E401B91D-DC25-45B7-9FAF-153D177D5305}|orbluy\\orbluy.csproj|d:\\pathofdev\\c-hash\\practice\\dih\\orbluy\\orbluy\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E401B91D-DC25-45B7-9FAF-153D177D5305}|orbluy\\orbluy.csproj|solutionrelative:orbluy\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\PathofDev\\c-hash\\Practice\\dih\\orbluy\\orbluy\\Form1.cs",
+              "RelativeDocumentMoniker": "orbluy\\Form1.cs",
+              "ToolTip": "D:\\PathofDev\\c-hash\\Practice\\dih\\orbluy\\orbluy\\Form1.cs*",
+              "RelativeToolTip": "orbluy\\Form1.cs*",
+              "ViewState": "AgIAAAUAAAAAAAAAAIA0wBMAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-27T15:35:45.165Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\PathofDev\\c-hash\\Practice\\dih\\orbluy\\orbluy\\Form1.cs",
+              "RelativeDocumentMoniker": "orbluy\\Form1.cs",
+              "ToolTip": "D:\\PathofDev\\c-hash\\Practice\\dih\\orbluy\\orbluy\\Form1.cs [Design]*",
+              "RelativeToolTip": "orbluy\\Form1.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-27T15:33:32.073Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{131369f2-062d-44a2-8671-91ff31efb4f4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

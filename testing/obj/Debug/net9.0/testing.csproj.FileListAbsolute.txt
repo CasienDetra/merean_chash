@@ -1,0 +1,14 @@
+D:\PathofDev\c-hash\testing\bin\Debug\net9.0\testing.exe
+D:\PathofDev\c-hash\testing\bin\Debug\net9.0\testing.deps.json
+D:\PathofDev\c-hash\testing\bin\Debug\net9.0\testing.runtimeconfig.json
+D:\PathofDev\c-hash\testing\bin\Debug\net9.0\testing.dll
+D:\PathofDev\c-hash\testing\bin\Debug\net9.0\testing.pdb
+D:\PathofDev\c-hash\testing\obj\Debug\net9.0\testing.GeneratedMSBuildEditorConfig.editorconfig
+D:\PathofDev\c-hash\testing\obj\Debug\net9.0\testing.AssemblyInfoInputs.cache
+D:\PathofDev\c-hash\testing\obj\Debug\net9.0\testing.AssemblyInfo.cs
+D:\PathofDev\c-hash\testing\obj\Debug\net9.0\testing.csproj.CoreCompileInputs.cache
+D:\PathofDev\c-hash\testing\obj\Debug\net9.0\testing.dll
+D:\PathofDev\c-hash\testing\obj\Debug\net9.0\refint\testing.dll
+D:\PathofDev\c-hash\testing\obj\Debug\net9.0\testing.pdb
+D:\PathofDev\c-hash\testing\obj\Debug\net9.0\testing.genruntimeconfig.cache
+D:\PathofDev\c-hash\testing\obj\Debug\net9.0\ref\testing.dll

@@ -1,0 +1,396 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C#####\\Inventory-Management-system\\InventoryManagementSystem-Project-C#\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|InventoryMSystem||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6933FE2F-29AA-456D-AF6E-3E848E5AAE2F}|InventorySystem\\InventoryMSystem.csproj|D:\\C#####\\Inventory-Management-system\\InventoryManagementSystem-Project-C#\\inventorysystem\\admin_home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6933FE2F-29AA-456D-AF6E-3E848E5AAE2F}|InventorySystem\\InventoryMSystem.csproj|solutionrelative:inventorysystem\\admin_home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6933FE2F-29AA-456D-AF6E-3E848E5AAE2F}|InventorySystem\\InventoryMSystem.csproj|D:\\C#####\\Inventory-Management-system\\InventoryManagementSystem-Project-C#\\inventorysystem\\signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6933FE2F-29AA-456D-AF6E-3E848E5AAE2F}|InventorySystem\\InventoryMSystem.csproj|solutionrelative:inventorysystem\\signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6933FE2F-29AA-456D-AF6E-3E848E5AAE2F}|InventorySystem\\InventoryMSystem.csproj|D:\\C#####\\Inventory-Management-system\\InventoryManagementSystem-Project-C#\\inventorysystem\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6933FE2F-29AA-456D-AF6E-3E848E5AAE2F}|InventorySystem\\InventoryMSystem.csproj|solutionrelative:inventorysystem\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6933FE2F-29AA-456D-AF6E-3E848E5AAE2F}|InventorySystem\\InventoryMSystem.csproj|D:\\C#####\\Inventory-Management-system\\InventoryManagementSystem-Project-C#\\inventorysystem\\login.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6933FE2F-29AA-456D-AF6E-3E848E5AAE2F}|InventorySystem\\InventoryMSystem.csproj|solutionrelative:inventorysystem\\login.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6933FE2F-29AA-456D-AF6E-3E848E5AAE2F}|InventorySystem\\InventoryMSystem.csproj|D:\\C#####\\Inventory-Management-system\\InventoryManagementSystem-Project-C#\\inventorysystem\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6933FE2F-29AA-456D-AF6E-3E848E5AAE2F}|InventorySystem\\InventoryMSystem.csproj|solutionrelative:inventorysystem\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6933FE2F-29AA-456D-AF6E-3E848E5AAE2F}|InventorySystem\\InventoryMSystem.csproj|D:\\C#####\\Inventory-Management-system\\InventoryManagementSystem-Project-C#\\inventorysystem\\admin_home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6933FE2F-29AA-456D-AF6E-3E848E5AAE2F}|InventorySystem\\InventoryMSystem.csproj|solutionrelative:inventorysystem\\admin_home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6933FE2F-29AA-456D-AF6E-3E848E5AAE2F}|InventorySystem\\InventoryMSystem.csproj|D:\\C#####\\Inventory-Management-system\\InventoryManagementSystem-Project-C#\\inventorysystem\\confirm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6933FE2F-29AA-456D-AF6E-3E848E5AAE2F}|InventorySystem\\InventoryMSystem.csproj|solutionrelative:inventorysystem\\confirm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6933FE2F-29AA-456D-AF6E-3E848E5AAE2F}|InventorySystem\\InventoryMSystem.csproj|D:\\C#####\\Inventory-Management-system\\InventoryManagementSystem-Project-C#\\inventorysystem\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6933FE2F-29AA-456D-AF6E-3E848E5AAE2F}|InventorySystem\\InventoryMSystem.csproj|solutionrelative:inventorysystem\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6933FE2F-29AA-456D-AF6E-3E848E5AAE2F}|InventorySystem\\InventoryMSystem.csproj|D:\\C#####\\Inventory-Management-system\\InventoryManagementSystem-Project-C#\\inventorysystem\\manager_home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6933FE2F-29AA-456D-AF6E-3E848E5AAE2F}|InventorySystem\\InventoryMSystem.csproj|solutionrelative:inventorysystem\\manager_home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6933FE2F-29AA-456D-AF6E-3E848E5AAE2F}|InventorySystem\\InventoryMSystem.csproj|D:\\C#####\\Inventory-Management-system\\InventoryManagementSystem-Project-C#\\inventorysystem\\myorders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6933FE2F-29AA-456D-AF6E-3E848E5AAE2F}|InventorySystem\\InventoryMSystem.csproj|solutionrelative:inventorysystem\\myorders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6933FE2F-29AA-456D-AF6E-3E848E5AAE2F}|InventorySystem\\InventoryMSystem.csproj|D:\\C#####\\Inventory-Management-system\\InventoryManagementSystem-Project-C#\\inventorysystem\\userdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6933FE2F-29AA-456D-AF6E-3E848E5AAE2F}|InventorySystem\\InventoryMSystem.csproj|solutionrelative:inventorysystem\\userdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6933FE2F-29AA-456D-AF6E-3E848E5AAE2F}|InventorySystem\\InventoryMSystem.csproj|D:\\C#####\\Inventory-Management-system\\InventoryManagementSystem-Project-C#\\inventorysystem\\usercontrol1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6933FE2F-29AA-456D-AF6E-3E848E5AAE2F}|InventorySystem\\InventoryMSystem.csproj|solutionrelative:inventorysystem\\usercontrol1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6933FE2F-29AA-456D-AF6E-3E848E5AAE2F}|InventorySystem\\InventoryMSystem.csproj|D:\\C#####\\Inventory-Management-system\\InventoryManagementSystem-Project-C#\\inventorysystem\\user_list.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6933FE2F-29AA-456D-AF6E-3E848E5AAE2F}|InventorySystem\\InventoryMSystem.csproj|solutionrelative:inventorysystem\\user_list.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6933FE2F-29AA-456D-AF6E-3E848E5AAE2F}|InventorySystem\\InventoryMSystem.csproj|D:\\C#####\\Inventory-Management-system\\InventoryManagementSystem-Project-C#\\inventorysystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6933FE2F-29AA-456D-AF6E-3E848E5AAE2F}|InventorySystem\\InventoryMSystem.csproj|solutionrelative:inventorysystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6933FE2F-29AA-456D-AF6E-3E848E5AAE2F}|InventorySystem\\InventoryMSystem.csproj|D:\\C#####\\Inventory-Management-system\\InventoryManagementSystem-Project-C#\\inventorysystem\\myorders.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6933FE2F-29AA-456D-AF6E-3E848E5AAE2F}|InventorySystem\\InventoryMSystem.csproj|solutionrelative:inventorysystem\\myorders.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6933FE2F-29AA-456D-AF6E-3E848E5AAE2F}|InventorySystem\\InventoryMSystem.csproj|D:\\C#####\\Inventory-Management-system\\InventoryManagementSystem-Project-C#\\inventorysystem\\myorders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6933FE2F-29AA-456D-AF6E-3E848E5AAE2F}|InventorySystem\\InventoryMSystem.csproj|solutionrelative:inventorysystem\\myorders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6933FE2F-29AA-456D-AF6E-3E848E5AAE2F}|InventorySystem\\InventoryMSystem.csproj|D:\\C#####\\Inventory-Management-system\\InventoryManagementSystem-Project-C#\\inventorysystem\\user_list.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6933FE2F-29AA-456D-AF6E-3E848E5AAE2F}|InventorySystem\\InventoryMSystem.csproj|solutionrelative:inventorysystem\\user_list.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6933FE2F-29AA-456D-AF6E-3E848E5AAE2F}|InventorySystem\\InventoryMSystem.csproj|D:\\C#####\\Inventory-Management-system\\InventoryManagementSystem-Project-C#\\inventorysystem\\signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6933FE2F-29AA-456D-AF6E-3E848E5AAE2F}|InventorySystem\\InventoryMSystem.csproj|solutionrelative:inventorysystem\\signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6933FE2F-29AA-456D-AF6E-3E848E5AAE2F}|InventorySystem\\InventoryMSystem.csproj|D:\\C#####\\Inventory-Management-system\\InventoryManagementSystem-Project-C#\\inventorysystem\\manager_home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6933FE2F-29AA-456D-AF6E-3E848E5AAE2F}|InventorySystem\\InventoryMSystem.csproj|solutionrelative:inventorysystem\\manager_home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6933FE2F-29AA-456D-AF6E-3E848E5AAE2F}|InventorySystem\\InventoryMSystem.csproj|D:\\C#####\\Inventory-Management-system\\InventoryManagementSystem-Project-C#\\inventorysystem\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6933FE2F-29AA-456D-AF6E-3E848E5AAE2F}|InventorySystem\\InventoryMSystem.csproj|solutionrelative:inventorysystem\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6933FE2F-29AA-456D-AF6E-3E848E5AAE2F}|InventorySystem\\InventoryMSystem.csproj|D:\\C#####\\Inventory-Management-system\\InventoryManagementSystem-Project-C#\\inventorysystem\\home.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6933FE2F-29AA-456D-AF6E-3E848E5AAE2F}|InventorySystem\\InventoryMSystem.csproj|solutionrelative:inventorysystem\\home.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6933FE2F-29AA-456D-AF6E-3E848E5AAE2F}|InventorySystem\\InventoryMSystem.csproj|D:\\C#####\\Inventory-Management-system\\InventoryManagementSystem-Project-C#\\inventorysystem\\home.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{6933FE2F-29AA-456D-AF6E-3E848E5AAE2F}|InventorySystem\\InventoryMSystem.csproj|solutionrelative:inventorysystem\\home.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6933FE2F-29AA-456D-AF6E-3E848E5AAE2F}|InventorySystem\\InventoryMSystem.csproj|D:\\C#####\\Inventory-Management-system\\InventoryManagementSystem-Project-C#\\inventorysystem\\confirm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6933FE2F-29AA-456D-AF6E-3E848E5AAE2F}|InventorySystem\\InventoryMSystem.csproj|solutionrelative:inventorysystem\\confirm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6933FE2F-29AA-456D-AF6E-3E848E5AAE2F}|InventorySystem\\InventoryMSystem.csproj|d:\\c#####\\inventory-management-system\\inventorymanagementsystem-project-c#\\inventorysystem\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "InventoryMSystem",
+              "DocumentMoniker": "D:\\C#####\\Inventory-Management-system\\InventoryManagementSystem-Project-C#\\InventorySystem\\InventoryMSystem.csproj",
+              "RelativeDocumentMoniker": "InventorySystem\\InventoryMSystem.csproj",
+              "ToolTip": "D:\\C#####\\Inventory-Management-system\\InventoryManagementSystem-Project-C#\\InventorySystem\\InventoryMSystem.csproj",
+              "RelativeToolTip": "InventorySystem\\InventoryMSystem.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-04-30T07:37:44.066Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Login.Designer.cs",
+              "DocumentMoniker": "D:\\C#####\\Inventory-Management-system\\InventoryManagementSystem-Project-C#\\InventorySystem\\Login.Designer.cs",
+              "RelativeDocumentMoniker": "InventorySystem\\Login.Designer.cs",
+              "ToolTip": "D:\\C#####\\Inventory-Management-system\\InventoryManagementSystem-Project-C#\\InventorySystem\\Login.Designer.cs",
+              "RelativeToolTip": "InventorySystem\\Login.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T06:38:36.499Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Admin_home.cs [Design]",
+              "DocumentMoniker": "D:\\C#####\\Inventory-Management-system\\InventoryManagementSystem-Project-C#\\InventorySystem\\Admin_home.cs",
+              "RelativeDocumentMoniker": "InventorySystem\\Admin_home.cs",
+              "ToolTip": "D:\\InventoryManagementSystem\\InventorySystem\\Admin_home.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\InventoryManagementSystem\\InventorySystem\\Admin_home.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T06:06:01.476Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Admin_home.cs",
+              "DocumentMoniker": "D:\\C#####\\Inventory-Management-system\\InventoryManagementSystem-Project-C#\\InventorySystem\\Admin_home.cs",
+              "RelativeDocumentMoniker": "InventorySystem\\Admin_home.cs",
+              "ToolTip": "D:\\C#####\\Inventory-Management-system\\InventoryManagementSystem-Project-C#\\InventorySystem\\Admin_home.cs",
+              "RelativeToolTip": "InventorySystem\\Admin_home.cs",
+              "ViewState": "AgIAAIkAAAAAAAAAAAAewJQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T06:06:06.409Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UserControl1.cs [Design]",
+              "DocumentMoniker": "D:\\C#####\\Inventory-Management-system\\InventoryManagementSystem-Project-C#\\InventorySystem\\UserControl1.cs",
+              "RelativeDocumentMoniker": "InventorySystem\\UserControl1.cs",
+              "ToolTip": "D:\\InventoryManagementSystem\\InventorySystem\\UserControl1.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\InventoryManagementSystem\\InventorySystem\\UserControl1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T08:39:30.465Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Login.cs [Design]",
+              "DocumentMoniker": "D:\\C#####\\Inventory-Management-system\\InventoryManagementSystem-Project-C#\\InventorySystem\\Login.cs",
+              "RelativeDocumentMoniker": "InventorySystem\\Login.cs",
+              "ToolTip": "D:\\InventoryManagementSystem\\InventorySystem\\Login.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\InventoryManagementSystem\\InventorySystem\\Login.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T06:53:25.043Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Login.cs",
+              "DocumentMoniker": "D:\\C#####\\Inventory-Management-system\\InventoryManagementSystem-Project-C#\\InventorySystem\\Login.cs",
+              "RelativeDocumentMoniker": "InventorySystem\\Login.cs",
+              "ToolTip": "D:\\C#####\\Inventory-Management-system\\InventoryManagementSystem-Project-C#\\InventorySystem\\Login.cs",
+              "RelativeToolTip": "InventorySystem\\Login.cs",
+              "ViewState": "AgIAAGwAAAAAAAAAAAAkwK0AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T06:21:05.43Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SignUp.cs [Design]",
+              "DocumentMoniker": "D:\\C#####\\Inventory-Management-system\\InventoryManagementSystem-Project-C#\\InventorySystem\\SignUp.cs",
+              "RelativeDocumentMoniker": "InventorySystem\\SignUp.cs",
+              "ToolTip": "D:\\InventoryManagementSystem\\InventorySystem\\SignUp.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\InventoryManagementSystem\\InventorySystem\\SignUp.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T06:52:15.472Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "userdetail.cs",
+              "DocumentMoniker": "D:\\C#####\\Inventory-Management-system\\InventoryManagementSystem-Project-C#\\InventorySystem\\userdetail.cs",
+              "RelativeDocumentMoniker": "InventorySystem\\userdetail.cs",
+              "ToolTip": "D:\\C#####\\Inventory-Management-system\\InventoryManagementSystem-Project-C#\\InventorySystem\\userdetail.cs",
+              "RelativeToolTip": "InventorySystem\\userdetail.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T08:39:32.719Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Confirm.cs [Design]",
+              "DocumentMoniker": "D:\\C#####\\Inventory-Management-system\\InventoryManagementSystem-Project-C#\\InventorySystem\\Confirm.cs",
+              "RelativeDocumentMoniker": "InventorySystem\\Confirm.cs",
+              "ToolTip": "D:\\InventoryManagementSystem\\InventorySystem\\Confirm.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\InventoryManagementSystem\\InventorySystem\\Confirm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T08:39:44.124Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Manager_home.cs [Design]",
+              "DocumentMoniker": "D:\\C#####\\Inventory-Management-system\\InventoryManagementSystem-Project-C#\\InventorySystem\\Manager_home.cs",
+              "RelativeDocumentMoniker": "InventorySystem\\Manager_home.cs",
+              "ToolTip": "D:\\InventoryManagementSystem\\InventorySystem\\Manager_home.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\InventoryManagementSystem\\InventorySystem\\Manager_home.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T06:21:26.935Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MyOrders.cs [Design]",
+              "DocumentMoniker": "D:\\C#####\\Inventory-Management-system\\InventoryManagementSystem-Project-C#\\InventorySystem\\MyOrders.cs",
+              "RelativeDocumentMoniker": "InventorySystem\\MyOrders.cs",
+              "ToolTip": "D:\\InventoryManagementSystem\\InventorySystem\\MyOrders.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\InventoryManagementSystem\\InventorySystem\\MyOrders.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T06:25:06.566Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Home.cs [Design]",
+              "DocumentMoniker": "D:\\C#####\\Inventory-Management-system\\InventoryManagementSystem-Project-C#\\InventorySystem\\Home.cs",
+              "RelativeDocumentMoniker": "InventorySystem\\Home.cs",
+              "ToolTip": "D:\\InventoryManagementSystem\\InventorySystem\\Home.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\InventoryManagementSystem\\InventorySystem\\Home.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T06:59:27.673Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "User_list.cs [Design]",
+              "DocumentMoniker": "D:\\C#####\\Inventory-Management-system\\InventoryManagementSystem-Project-C#\\InventorySystem\\User_list.cs",
+              "RelativeDocumentMoniker": "InventorySystem\\User_list.cs",
+              "ToolTip": "D:\\InventoryManagementSystem\\InventorySystem\\User_list.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\InventoryManagementSystem\\InventorySystem\\User_list.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T06:25:37.439Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "MyOrders.cs",
+              "DocumentMoniker": "D:\\C#####\\Inventory-Management-system\\InventoryManagementSystem-Project-C#\\InventorySystem\\MyOrders.cs",
+              "RelativeDocumentMoniker": "InventorySystem\\MyOrders.cs",
+              "ToolTip": "D:\\C#####\\Inventory-Management-system\\InventoryManagementSystem-Project-C#\\InventorySystem\\MyOrders.cs",
+              "RelativeToolTip": "InventorySystem\\MyOrders.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T08:38:51.946Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C#####\\Inventory-Management-system\\InventoryManagementSystem-Project-C#\\InventorySystem\\Program.cs",
+              "RelativeDocumentMoniker": "InventorySystem\\Program.cs",
+              "ToolTip": "D:\\C#####\\Inventory-Management-system\\InventoryManagementSystem-Project-C#\\InventorySystem\\Program.cs",
+              "RelativeToolTip": "InventorySystem\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T06:33:32.652Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "MyOrders.Designer.cs",
+              "DocumentMoniker": "D:\\C#####\\Inventory-Management-system\\InventoryManagementSystem-Project-C#\\InventorySystem\\MyOrders.Designer.cs",
+              "RelativeDocumentMoniker": "InventorySystem\\MyOrders.Designer.cs",
+              "ToolTip": "D:\\C#####\\Inventory-Management-system\\InventoryManagementSystem-Project-C#\\InventorySystem\\MyOrders.Designer.cs",
+              "RelativeToolTip": "InventorySystem\\MyOrders.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAiwAwAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T07:47:15.406Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Manager_home.cs",
+              "DocumentMoniker": "D:\\C#####\\Inventory-Management-system\\InventoryManagementSystem-Project-C#\\InventorySystem\\Manager_home.cs",
+              "RelativeDocumentMoniker": "InventorySystem\\Manager_home.cs",
+              "ToolTip": "D:\\C#####\\Inventory-Management-system\\InventoryManagementSystem-Project-C#\\InventorySystem\\Manager_home.cs",
+              "RelativeToolTip": "InventorySystem\\Manager_home.cs",
+              "ViewState": "AgIAAGgAAAAAAAAAAAAuwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T06:21:29.941Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "User_list.cs",
+              "DocumentMoniker": "D:\\C#####\\Inventory-Management-system\\InventoryManagementSystem-Project-C#\\InventorySystem\\User_list.cs",
+              "RelativeDocumentMoniker": "InventorySystem\\User_list.cs",
+              "ToolTip": "D:\\C#####\\Inventory-Management-system\\InventoryManagementSystem-Project-C#\\InventorySystem\\User_list.cs",
+              "RelativeToolTip": "InventorySystem\\User_list.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAuwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T06:25:44.565Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "SignUp.cs",
+              "DocumentMoniker": "D:\\C#####\\Inventory-Management-system\\InventoryManagementSystem-Project-C#\\InventorySystem\\SignUp.cs",
+              "RelativeDocumentMoniker": "InventorySystem\\SignUp.cs",
+              "ToolTip": "D:\\C#####\\Inventory-Management-system\\InventoryManagementSystem-Project-C#\\InventorySystem\\SignUp.cs",
+              "RelativeToolTip": "InventorySystem\\SignUp.cs",
+              "ViewState": "AgIAAGsAAAAAAAAAAAAuwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T06:25:14.661Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Home.Designer.cs",
+              "DocumentMoniker": "D:\\C#####\\Inventory-Management-system\\InventoryManagementSystem-Project-C#\\InventorySystem\\Home.Designer.cs",
+              "RelativeDocumentMoniker": "InventorySystem\\Home.Designer.cs",
+              "ToolTip": "D:\\C#####\\Inventory-Management-system\\InventoryManagementSystem-Project-C#\\InventorySystem\\Home.Designer.cs",
+              "RelativeToolTip": "InventorySystem\\Home.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T06:10:19.595Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Home.resx",
+              "DocumentMoniker": "D:\\C#####\\Inventory-Management-system\\InventoryManagementSystem-Project-C#\\InventorySystem\\Home.resx",
+              "RelativeDocumentMoniker": "InventorySystem\\Home.resx",
+              "ToolTip": "D:\\C#####\\Inventory-Management-system\\InventoryManagementSystem-Project-C#\\InventorySystem\\Home.resx",
+              "RelativeToolTip": "InventorySystem\\Home.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-04-11T06:10:23.818Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Home.cs",
+              "DocumentMoniker": "D:\\C#####\\Inventory-Management-system\\InventoryManagementSystem-Project-C#\\InventorySystem\\Home.cs",
+              "RelativeDocumentMoniker": "InventorySystem\\Home.cs",
+              "ToolTip": "D:\\C#####\\Inventory-Management-system\\InventoryManagementSystem-Project-C#\\InventorySystem\\Home.cs",
+              "RelativeToolTip": "InventorySystem\\Home.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAswJUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T06:59:29.666Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Confirm.cs",
+              "DocumentMoniker": "D:\\C#####\\Inventory-Management-system\\InventoryManagementSystem-Project-C#\\InventorySystem\\Confirm.cs",
+              "RelativeDocumentMoniker": "InventorySystem\\Confirm.cs",
+              "ToolTip": "D:\\C#####\\Inventory-Management-system\\InventoryManagementSystem-Project-C#\\InventorySystem\\Confirm.cs",
+              "RelativeToolTip": "InventorySystem\\Confirm.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAmwHAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T06:27:11.869Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

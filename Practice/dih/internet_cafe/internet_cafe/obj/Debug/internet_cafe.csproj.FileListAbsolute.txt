@@ -1,0 +1,11 @@
+D:\PathofDev\c-hash\Practice\dih\internet_cafe\internet_cafe\bin\Debug\internet_cafe.exe.config
+D:\PathofDev\c-hash\Practice\dih\internet_cafe\internet_cafe\bin\Debug\internet_cafe.exe
+D:\PathofDev\c-hash\Practice\dih\internet_cafe\internet_cafe\bin\Debug\internet_cafe.pdb
+D:\PathofDev\c-hash\Practice\dih\internet_cafe\internet_cafe\obj\Debug\internet_cafe.csproj.AssemblyReference.cache
+D:\PathofDev\c-hash\Practice\dih\internet_cafe\internet_cafe\obj\Debug\internet_cafe.Form1.resources
+D:\PathofDev\c-hash\Practice\dih\internet_cafe\internet_cafe\obj\Debug\internet_cafe.Properties.Resources.resources
+D:\PathofDev\c-hash\Practice\dih\internet_cafe\internet_cafe\obj\Debug\internet_cafe.csproj.GenerateResource.cache
+D:\PathofDev\c-hash\Practice\dih\internet_cafe\internet_cafe\obj\Debug\internet_cafe.csproj.CoreCompileInputs.cache
+D:\PathofDev\c-hash\Practice\dih\internet_cafe\internet_cafe\obj\Debug\internet_cafe.exe
+D:\PathofDev\c-hash\Practice\dih\internet_cafe\internet_cafe\obj\Debug\internet_cafe.pdb
+D:\PathofDev\c-hash\Practice\dih\internet_cafe\internet_cafe\obj\Debug\internet_cafe.exe.config

@@ -1,0 +1,11 @@
+D:\PathofDev\c-hash\Practice\study_class\bin\Debug\study_class.exe.config
+D:\PathofDev\c-hash\Practice\study_class\bin\Debug\study_class.exe
+D:\PathofDev\c-hash\Practice\study_class\bin\Debug\study_class.pdb
+D:\PathofDev\c-hash\Practice\study_class\obj\Debug\study_class.csproj.AssemblyReference.cache
+D:\PathofDev\c-hash\Practice\study_class\obj\Debug\study_class.Form1.resources
+D:\PathofDev\c-hash\Practice\study_class\obj\Debug\study_class.Properties.Resources.resources
+D:\PathofDev\c-hash\Practice\study_class\obj\Debug\study_class.csproj.GenerateResource.cache
+D:\PathofDev\c-hash\Practice\study_class\obj\Debug\study_class.csproj.CoreCompileInputs.cache
+D:\PathofDev\c-hash\Practice\study_class\obj\Debug\study_class.exe
+D:\PathofDev\c-hash\Practice\study_class\obj\Debug\study_class.pdb
+D:\PathofDev\c-hash\Practice\study_class\obj\Debug\study_class.exe.config

@@ -1,0 +1,11 @@
+D:\PathofDev\c-hash\palaceoa\bin\Debug\palaceoa.exe.config
+D:\PathofDev\c-hash\palaceoa\bin\Debug\palaceoa.exe
+D:\PathofDev\c-hash\palaceoa\bin\Debug\palaceoa.pdb
+D:\PathofDev\c-hash\palaceoa\obj\Debug\palaceoa.csproj.AssemblyReference.cache
+D:\PathofDev\c-hash\palaceoa\obj\Debug\palaceoa.Form1.resources
+D:\PathofDev\c-hash\palaceoa\obj\Debug\palaceoa.Properties.Resources.resources
+D:\PathofDev\c-hash\palaceoa\obj\Debug\palaceoa.csproj.GenerateResource.cache
+D:\PathofDev\c-hash\palaceoa\obj\Debug\palaceoa.csproj.CoreCompileInputs.cache
+D:\PathofDev\c-hash\palaceoa\obj\Debug\palaceoa.exe
+D:\PathofDev\c-hash\palaceoa\obj\Debug\palaceoa.pdb
+D:\PathofDev\c-hash\palaceoa\obj\Debug\palaceoa.exe.config

@@ -1,0 +1,11 @@
+D:\PathofDev\c-hash\Practice\dih\give_stu_grade\give_stu_grade\bin\Debug\give_stu_grade.exe.config
+D:\PathofDev\c-hash\Practice\dih\give_stu_grade\give_stu_grade\bin\Debug\give_stu_grade.exe
+D:\PathofDev\c-hash\Practice\dih\give_stu_grade\give_stu_grade\bin\Debug\give_stu_grade.pdb
+D:\PathofDev\c-hash\Practice\dih\give_stu_grade\give_stu_grade\obj\Debug\give_stu_grade.csproj.AssemblyReference.cache
+D:\PathofDev\c-hash\Practice\dih\give_stu_grade\give_stu_grade\obj\Debug\give_stu_grade.Form1.resources
+D:\PathofDev\c-hash\Practice\dih\give_stu_grade\give_stu_grade\obj\Debug\give_stu_grade.Properties.Resources.resources
+D:\PathofDev\c-hash\Practice\dih\give_stu_grade\give_stu_grade\obj\Debug\give_stu_grade.csproj.GenerateResource.cache
+D:\PathofDev\c-hash\Practice\dih\give_stu_grade\give_stu_grade\obj\Debug\give_stu_grade.csproj.CoreCompileInputs.cache
+D:\PathofDev\c-hash\Practice\dih\give_stu_grade\give_stu_grade\obj\Debug\give_stu_grade.exe
+D:\PathofDev\c-hash\Practice\dih\give_stu_grade\give_stu_grade\obj\Debug\give_stu_grade.pdb
+D:\PathofDev\c-hash\Practice\dih\give_stu_grade\give_stu_grade\obj\Debug\give_stu_grade.exe.config

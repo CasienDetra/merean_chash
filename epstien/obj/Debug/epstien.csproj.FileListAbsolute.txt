@@ -1,0 +1,10 @@
+D:\PathofDev\c-hash\epstien\bin\Debug\epstien.exe.config
+D:\PathofDev\c-hash\epstien\bin\Debug\epstien.exe
+D:\PathofDev\c-hash\epstien\bin\Debug\epstien.pdb
+D:\PathofDev\c-hash\epstien\obj\Debug\epstien.csproj.AssemblyReference.cache
+D:\PathofDev\c-hash\epstien\obj\Debug\epstien.Form1.resources
+D:\PathofDev\c-hash\epstien\obj\Debug\epstien.Properties.Resources.resources
+D:\PathofDev\c-hash\epstien\obj\Debug\epstien.csproj.GenerateResource.cache
+D:\PathofDev\c-hash\epstien\obj\Debug\epstien.csproj.CoreCompileInputs.cache
+D:\PathofDev\c-hash\epstien\obj\Debug\epstien.exe
+D:\PathofDev\c-hash\epstien\obj\Debug\epstien.pdb

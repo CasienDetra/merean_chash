@@ -1,0 +1,11 @@
+D:\PathofDev\c-hash\Practice\School-Stuff\cal_amount\cal_amount\bin\Debug\cal_amount.exe.config
+D:\PathofDev\c-hash\Practice\School-Stuff\cal_amount\cal_amount\bin\Debug\cal_amount.exe
+D:\PathofDev\c-hash\Practice\School-Stuff\cal_amount\cal_amount\bin\Debug\cal_amount.pdb
+D:\PathofDev\c-hash\Practice\School-Stuff\cal_amount\cal_amount\obj\Debug\cal_amount.csproj.AssemblyReference.cache
+D:\PathofDev\c-hash\Practice\School-Stuff\cal_amount\cal_amount\obj\Debug\cal_amount.Form1.resources
+D:\PathofDev\c-hash\Practice\School-Stuff\cal_amount\cal_amount\obj\Debug\cal_amount.Properties.Resources.resources
+D:\PathofDev\c-hash\Practice\School-Stuff\cal_amount\cal_amount\obj\Debug\cal_amount.csproj.GenerateResource.cache
+D:\PathofDev\c-hash\Practice\School-Stuff\cal_amount\cal_amount\obj\Debug\cal_amount.csproj.CoreCompileInputs.cache
+D:\PathofDev\c-hash\Practice\School-Stuff\cal_amount\cal_amount\obj\Debug\cal_amount.exe
+D:\PathofDev\c-hash\Practice\School-Stuff\cal_amount\cal_amount\obj\Debug\cal_amount.pdb
+D:\PathofDev\c-hash\Practice\School-Stuff\cal_amount\cal_amount\obj\Debug\cal_amount.exe.config

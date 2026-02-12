@@ -1,0 +1,11 @@
+D:\PathofDev\c-hash\Practice\School-Stuff\forreal\forreal\bin\Debug\forreal.exe.config
+D:\PathofDev\c-hash\Practice\School-Stuff\forreal\forreal\bin\Debug\forreal.exe
+D:\PathofDev\c-hash\Practice\School-Stuff\forreal\forreal\bin\Debug\forreal.pdb
+D:\PathofDev\c-hash\Practice\School-Stuff\forreal\forreal\obj\Debug\forreal.csproj.AssemblyReference.cache
+D:\PathofDev\c-hash\Practice\School-Stuff\forreal\forreal\obj\Debug\forreal.Form1.resources
+D:\PathofDev\c-hash\Practice\School-Stuff\forreal\forreal\obj\Debug\forreal.Properties.Resources.resources
+D:\PathofDev\c-hash\Practice\School-Stuff\forreal\forreal\obj\Debug\forreal.csproj.GenerateResource.cache
+D:\PathofDev\c-hash\Practice\School-Stuff\forreal\forreal\obj\Debug\forreal.csproj.CoreCompileInputs.cache
+D:\PathofDev\c-hash\Practice\School-Stuff\forreal\forreal\obj\Debug\forreal.exe
+D:\PathofDev\c-hash\Practice\School-Stuff\forreal\forreal\obj\Debug\forreal.pdb
+D:\PathofDev\c-hash\Practice\School-Stuff\forreal\forreal\obj\Debug\forreal.exe.config

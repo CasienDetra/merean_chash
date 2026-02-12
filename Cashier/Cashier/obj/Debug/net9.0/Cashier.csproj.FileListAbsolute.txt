@@ -1,0 +1,14 @@
+D:\PathofDev\c-hash\Cashier\Cashier\bin\Debug\net9.0\Cashier.exe
+D:\PathofDev\c-hash\Cashier\Cashier\bin\Debug\net9.0\Cashier.deps.json
+D:\PathofDev\c-hash\Cashier\Cashier\bin\Debug\net9.0\Cashier.runtimeconfig.json
+D:\PathofDev\c-hash\Cashier\Cashier\bin\Debug\net9.0\Cashier.dll
+D:\PathofDev\c-hash\Cashier\Cashier\bin\Debug\net9.0\Cashier.pdb
+D:\PathofDev\c-hash\Cashier\Cashier\obj\Debug\net9.0\Cashier.GeneratedMSBuildEditorConfig.editorconfig
+D:\PathofDev\c-hash\Cashier\Cashier\obj\Debug\net9.0\Cashier.AssemblyInfoInputs.cache
+D:\PathofDev\c-hash\Cashier\Cashier\obj\Debug\net9.0\Cashier.AssemblyInfo.cs
+D:\PathofDev\c-hash\Cashier\Cashier\obj\Debug\net9.0\Cashier.csproj.CoreCompileInputs.cache
+D:\PathofDev\c-hash\Cashier\Cashier\obj\Debug\net9.0\Cashier.dll
+D:\PathofDev\c-hash\Cashier\Cashier\obj\Debug\net9.0\refint\Cashier.dll
+D:\PathofDev\c-hash\Cashier\Cashier\obj\Debug\net9.0\Cashier.pdb
+D:\PathofDev\c-hash\Cashier\Cashier\obj\Debug\net9.0\Cashier.genruntimeconfig.cache
+D:\PathofDev\c-hash\Cashier\Cashier\obj\Debug\net9.0\ref\Cashier.dll

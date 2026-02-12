@@ -1,0 +1,11 @@
+D:\PathofDev\c-hash\Practice\School-Stuff\Im_and_Em\Im_and_Em\bin\Debug\Im_and_Em.exe.config
+D:\PathofDev\c-hash\Practice\School-Stuff\Im_and_Em\Im_and_Em\bin\Debug\Im_and_Em.exe
+D:\PathofDev\c-hash\Practice\School-Stuff\Im_and_Em\Im_and_Em\bin\Debug\Im_and_Em.pdb
+D:\PathofDev\c-hash\Practice\School-Stuff\Im_and_Em\Im_and_Em\obj\Debug\Im_and_Em.csproj.AssemblyReference.cache
+D:\PathofDev\c-hash\Practice\School-Stuff\Im_and_Em\Im_and_Em\obj\Debug\Im_and_Em.Form1.resources
+D:\PathofDev\c-hash\Practice\School-Stuff\Im_and_Em\Im_and_Em\obj\Debug\Im_and_Em.Properties.Resources.resources
+D:\PathofDev\c-hash\Practice\School-Stuff\Im_and_Em\Im_and_Em\obj\Debug\Im_and_Em.csproj.GenerateResource.cache
+D:\PathofDev\c-hash\Practice\School-Stuff\Im_and_Em\Im_and_Em\obj\Debug\Im_and_Em.csproj.CoreCompileInputs.cache
+D:\PathofDev\c-hash\Practice\School-Stuff\Im_and_Em\Im_and_Em\obj\Debug\Im_and_Em.exe
+D:\PathofDev\c-hash\Practice\School-Stuff\Im_and_Em\Im_and_Em\obj\Debug\Im_and_Em.pdb
+D:\PathofDev\c-hash\Practice\School-Stuff\Im_and_Em\Im_and_Em\obj\Debug\Im_and_Em.exe.config
