@@ -1,0 +1,9 @@
+D:\PathofDev\c-hash\indexer\bin\Debug\indexer.exe.config
+D:\PathofDev\c-hash\indexer\bin\Debug\indexer.exe
+D:\PathofDev\c-hash\indexer\bin\Debug\indexer.pdb
+D:\PathofDev\c-hash\indexer\obj\Debug\indexer.csproj.AssemblyReference.cache
+D:\PathofDev\c-hash\indexer\obj\Debug\indexer.Properties.Resources.resources
+D:\PathofDev\c-hash\indexer\obj\Debug\indexer.csproj.GenerateResource.cache
+D:\PathofDev\c-hash\indexer\obj\Debug\indexer.csproj.CoreCompileInputs.cache
+D:\PathofDev\c-hash\indexer\obj\Debug\indexer.exe
+D:\PathofDev\c-hash\indexer\obj\Debug\indexer.pdb

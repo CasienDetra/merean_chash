@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Cashier")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7bc228ece69b496643e0e4cea8c7f34116d315b0")]
 [assembly: System.Reflection.AssemblyProductAttribute("Cashier")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Cashier")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

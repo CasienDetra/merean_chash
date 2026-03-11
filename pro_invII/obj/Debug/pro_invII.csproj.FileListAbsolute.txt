@@ -1,0 +1,10 @@
+D:\PathofDev\c-hash\pro_invII\bin\Debug\pro_invII.exe.config
+D:\PathofDev\c-hash\pro_invII\bin\Debug\pro_invII.exe
+D:\PathofDev\c-hash\pro_invII\bin\Debug\pro_invII.pdb
+D:\PathofDev\c-hash\pro_invII\obj\Debug\pro_invII.csproj.AssemblyReference.cache
+D:\PathofDev\c-hash\pro_invII\obj\Debug\pro_invII.Form1.resources
+D:\PathofDev\c-hash\pro_invII\obj\Debug\pro_invII.Properties.Resources.resources
+D:\PathofDev\c-hash\pro_invII\obj\Debug\pro_invII.csproj.GenerateResource.cache
+D:\PathofDev\c-hash\pro_invII\obj\Debug\pro_invII.csproj.CoreCompileInputs.cache
+D:\PathofDev\c-hash\pro_invII\obj\Debug\pro_invII.exe
+D:\PathofDev\c-hash\pro_invII\obj\Debug\pro_invII.pdb
